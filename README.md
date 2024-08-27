@@ -29,7 +29,7 @@ Main script for demonstrating autonomous indoor flight:
 - Handling emergency stops and landing events.
 
 ### cf_data.py
-This script contains functions and classes for handling Crazyflie data. It includes functionalities for:
+This script contains functions for handling Crazyflie data. It includes functionalities for:
 - Reading and processing flight data.
 - Storing and retrieving data for analysis.
 
