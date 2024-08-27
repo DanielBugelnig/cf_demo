@@ -20,23 +20,6 @@ git clone https://github.com/DanielBugelnig/cf_demo.git
    ```bash
    pip install -r requirements.txt
 
-
-
-## Usage
-### Running the Scripts
-- **demo.py**: This script controls the Crazyflie drone, logs flight data, and handles emergency stops.
-  ```bash
-  python demo.py
-  ```
-- **cf_data.py**: This script contains data handling functions for the Crazyflie.
-  ```bash
-  python cf_data.py
-  ```
-- **plot_test.py**: This script plots the logged flight data.
-  ```bash
-  python plot_test.py
-  ```
-
 ## Description of Files
 ### demo.py
 Main script for demonstrating autonomous indoor flight:
