@@ -7,7 +7,6 @@ import numpy as np
 from datetime import date
 from pynput import keyboard
 import cf_data as cf_data
-
 import matplotlib.pyplot as plt
 
 import cflib.crtp
