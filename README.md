@@ -9,7 +9,7 @@ git clone https://github.com/DanielBugelnig/cf_demo.git
 2. Navigate to the project directory
 3. Installing Dependencies
 
-Ensure you have Python and pip installed on your machine. 
+- Ensure you have Python and pip installed on your machine. 
 - Create a virtual environment
    ```bash
    python3 -m venv venv
