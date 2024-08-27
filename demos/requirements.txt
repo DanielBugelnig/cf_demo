@@ -1,0 +1,6 @@
+numpy
+pynput
+matplotlib
+cflib
+pandas
+pyyaml
