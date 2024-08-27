@@ -17,8 +17,8 @@ git clone https://github.com/DanielBugelnig/cf_demo.git
   ```bash
   source venv/bin/activate
 - Install dependencies
-```bash
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 
 
