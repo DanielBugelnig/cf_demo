@@ -48,11 +48,6 @@ python demo.py
 python plot_test.py
 ```
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-```
-
-Make sure to replace `<repository_url>` and `<repository_directory>` with the actual URL and directory name of your repository.
 
 
 
