@@ -20,6 +20,10 @@ git clone https://github.com/DanielBugelnig/cf_demo.git
    ```bash
    pip install -r requirements.txt
 
+- (After flying, exit venv) with
+- ```bash
+  deactivate
+
 ## Description of Files
 ### demo.py
 Main script for demonstrating autonomous indoor flight:
