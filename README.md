@@ -44,12 +44,12 @@ This script is used for plotting the logged flight data. It generates visualizat
 
 ### Running demo.py
 ```bash
-python demo.py
+python3 demo.py
 ```
 
 ### Running plot_test.py
 ```bash
-python plot_test.py
+python3 plot_test.py
 ```
 
 
